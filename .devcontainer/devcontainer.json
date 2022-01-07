@@ -17,7 +17,10 @@
     },
 
     "extensions": [
-        "golang.Go"
+        "golang.Go",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "mhutchie.git-graph"
     ],
 
     "portsAttributes": {
